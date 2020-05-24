@@ -1,0 +1,57 @@
+body,html{
+    
+   
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+	font-family: 'Squada One', cursive;
+    background: url(header.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.container{
+
+	margin-left: 470px;
+}
+
+h1{
+
+	color: #969ea5;
+}
+
+hr{
+    border-color: #fd7e14;
+	border-width: 2px;
+	max-width: 65px;
+}
+
+.buffer{
+
+	height:13rem; 
+}
+
+.btn{
+     font-weight: 700;
+    padding:1rem 2rem; 
+	text-transform: uppercase;
+	border-radius: 250px;
+	
+}
+
+.btn-info{
+	background-color: #fd7e14;
+ 	border-color:#fd7e14;
+
+}
+
+.btn-info:hover{
+
+	background-color:#ff7400;
+	border-color:#ff7400;
+	border-width:3px;
+}
+
+
